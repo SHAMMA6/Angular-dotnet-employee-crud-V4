@@ -10,29 +10,6 @@ A full‑stack demo application built as part of an interview technical task. It
 - Swagger / OpenAPI
 - Angular + Angular Material
 
-angular-dotnet-employee-crud/
-├─ README.md
-├─ .gitignore
-├─ backend/
-│  ├─ Employees.sln
-│  └─ src/
-│     ├─ Employees.Domain/
-│     ├─ Employees.Application/
-│     ├─ Employees.Infrastructure/
-│     └─ Employees.Api/
-│  └─ tests/
-│     └─ Employees.IntegrationTests/ (optional)
-└─ frontend/
-   └─ employees-ui/
-      ├─ src/
-      │  ├─ app/
-      │  │  ├─ core/
-      │  │  ├─ features/
-      │  │  │  └─ employees/
-      │  │  └─ shared/
-      │  └─ environments/
-      └─ ... Angular standard files
-
 
 ## Quick Start
 

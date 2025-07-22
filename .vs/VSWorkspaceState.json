@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\src",
+    "\\backend\\src\\Employees.Infrastructure"
+  ],
+  "SelectedNode": "\\backend\\src\\Employees.Infrastructure\\DependencyInjection.cs",
+  "PreviewInSolutionExplorer": false
+}

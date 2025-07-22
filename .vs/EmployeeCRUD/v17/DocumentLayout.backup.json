@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\youssef.hasan\\Desktop\\Angular-dotnet-employee-crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A400073-B936-4702-9C33-C2331AAD915F}|backend\\src\\Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\youssef.hasan\\desktop\\angular-dotnet-employee-crud\\backend\\src\\employees.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A400073-B936-4702-9C33-C2331AAD915F}|backend\\src\\Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:backend\\src\\employees.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EC7EE-8C71-4AA6-9C95-CCBFF4668717}|backend\\src\\Employees.Application\\Employees.Application.csproj|c:\\users\\youssef.hasan\\desktop\\angular-dotnet-employee-crud\\backend\\src\\employees.application\\validation\\updateemployeerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EC7EE-8C71-4AA6-9C95-CCBFF4668717}|backend\\src\\Employees.Application\\Employees.Application.csproj|solutionrelative:backend\\src\\employees.application\\validation\\updateemployeerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EC7EE-8C71-4AA6-9C95-CCBFF4668717}|backend\\src\\Employees.Application\\Employees.Application.csproj|c:\\users\\youssef.hasan\\desktop\\angular-dotnet-employee-crud\\backend\\src\\employees.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EC7EE-8C71-4AA6-9C95-CCBFF4668717}|backend\\src\\Employees.Application\\Employees.Application.csproj|solutionrelative:backend\\src\\employees.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\youssef.hasan\\source\\repos\\Angular-dotnet-employee-crud\\Employees.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\youssef.hasan\\Desktop\\Angular-dotnet-employee-crud\\backend\\src\\Employees.Application\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "backend\\src\\Employees.Application\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\youssef.hasan\\Desktop\\Angular-dotnet-employee-crud\\backend\\src\\Employees.Application\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "backend\\src\\Employees.Application\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA7wEIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:35:01.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\youssef.hasan\\source\\repos\\Angular-dotnet-employee-crud\\Employees.Api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Angular-dotnet-employee-crud\\Employees.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\youssef.hasan\\source\\repos\\Angular-dotnet-employee-crud\\Employees.Api\\Program.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Angular-dotnet-employee-crud\\Employees.Api\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:30:04.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-21T15:26:44.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateEmployeeRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\youssef.hasan\\Desktop\\Angular-dotnet-employee-crud\\backend\\src\\Employees.Application\\Validation\\UpdateEmployeeRequestValidator.cs",
+              "RelativeDocumentMoniker": "backend\\src\\Employees.Application\\Validation\\UpdateEmployeeRequestValidator.cs",
+              "ToolTip": "C:\\Users\\youssef.hasan\\Desktop\\Angular-dotnet-employee-crud\\backend\\src\\Employees.Application\\Validation\\UpdateEmployeeRequestValidator.cs",
+              "RelativeToolTip": "backend\\src\\Employees.Application\\Validation\\UpdateEmployeeRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:24:58.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\youssef.hasan\\Desktop\\Angular-dotnet-employee-crud\\backend\\src\\Employees.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "backend\\src\\Employees.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\youssef.hasan\\Desktop\\Angular-dotnet-employee-crud\\backend\\src\\Employees.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "backend\\src\\Employees.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:24:42.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
